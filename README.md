@@ -22,4 +22,4 @@ Enlace de la solución: [Entrega ejercicio tema uno](https://github.com/ShadeVI/
 
 Para este ejercicio tendréis que crear una función que reciba un precio y devuelva el precio con el IVA incluido.
 
-Enlace de la solución: [Entrega ejercicio tema uno](https://github.com/ShadeVI/OpenBootcamp/blob/main/src/temaDosEntrega/TemaDosMain.java)
+Enlace de la solución: [Entrega ejercicio tema dos](https://github.com/ShadeVI/OpenBootcamp/blob/main/src/temaDosEntrega/TemaDosMain.java)
