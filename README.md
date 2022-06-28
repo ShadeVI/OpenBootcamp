@@ -16,7 +16,7 @@ Enlace de la solución: [Entrega ejercicio tema uno](https://github.com/ShadeVI/
 
 ---
 
-## TEMA UNO
+## TEMA DOS
 
 #### Enunciado del ejercicio
 
