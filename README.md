@@ -23,3 +23,17 @@ Enlace de la solución: [Entrega ejercicio tema uno](https://github.com/ShadeVI/
 Para este ejercicio tendréis que crear una función que reciba un precio y devuelva el precio con el IVA incluido.
 
 Enlace de la solución: [Entrega ejercicio tema dos](https://github.com/ShadeVI/OpenBootcamp/blob/main/src/temaDosEntrega/TemaDosMain.java)
+
+---
+
+## TEMA TRES
+
+#### Enunciado del ejercicio
+
+En este ejercicio tenéis que crear un bucle que permita concatenar textos e imprima el resultado final por consola.
+
+Tened en cuenta que los textos pueden venir de un array de tipo String. Por ejemplo:
+
+```String[] nombres = {"", "", "", ""}```
+
+Enlace de la solución: [Entrega ejercicio tema tres](https://github.com/ShadeVI/OpenBootcamp/blob/main/src/temaTresEntrega/TemaTresMain.java)
