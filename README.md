@@ -37,3 +37,19 @@ Tened en cuenta que los textos pueden venir de un array de tipo String. Por ejem
 ```String[] nombres = {"", "", "", ""}```
 
 Enlace de la solución: [Entrega ejercicio tema tres](https://github.com/ShadeVI/OpenBootcamp/blob/main/src/temaTresEntrega/TemaTresMain.java)
+
+---
+
+## TEMA CUATRO
+
+#### Enunciado del ejercicio
+
+En este ejercicio tendréis que crear una clase SmartDevice. Dentro crearéis las clases hijas: SmartPhone y SmartWatch.
+
+Agregaréis atributos tal cual tendrían esos objetos en la realidad.
+
+Crear constructor vacío y con todos los parámetros para cada clase.
+
+Desde una clase Main: crearéis objetos de cada una y los utilizaréis para imprimir sus valores por consola.
+
+Enlace de la solución: [Entrega ejercicio tema cuatro](https://github.com/ShadeVI/OpenBootcamp/blob/main/src/temaCuatroEntrega/TemaCuatroMain.java)
