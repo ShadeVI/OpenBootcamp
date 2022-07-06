@@ -1,0 +1,10 @@
+Vamos a crear un contador de letras.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut interdum, lacus at convallis suscipit, nisi velit luctus
+augue, vel lacinia metus sapien vel enim. Phasellus nec lectus scelerisque, congue lacus sit amet, maximus metus.
+Suspendisse non aliquam arcu. Phasellus et efficitur orci, id luctus nunc. Phasellus porta eget metus mollis pretium.
+Integer est neque, commodo vitae purus volutpat, sollicitudin viverra dui. Aenean sit amet purus ut libero dictum
+ultrices et et nisi. Nam vestibulum, tortor eu sagittis fringilla, risus lacus scelerisque odio, sagittis iaculis orci
+purus eget lacus. Nunc varius quam nec neque malesuada, convallis dapibus sapien efficitur. Curabitur in enim in odio
+hendrerit venenatis eget ac velit. Aliquam luctus imperdiet orci, et fringilla neque tincidunt placerat. Morbi
+fermentum laoreet neque, sit amet accumsan nibh euismod vitae. Aenean molestie, mauris nec ultrices molestie, arcu
+eros consectetur arcu, a lobortis sapien ipsum condimentum sem. Duis accumsan non tellus ac sodales.
