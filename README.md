@@ -105,4 +105,4 @@ Escribe el código que devuelva una cadena al revés. Por ejemplo, la cadena "ho
 
 9. Sorpréndenos creando un programa de tu elección que utilice InputStream, PrintStream, excepciones, un HashMap y un ArrayList, LinkedList o array.
 
-Enlace de la solución: [Entrega ejercicio temas Siete, Ocho, Nueve](https://github.com/ShadeVI/OpenBootcamp/blob/main/src/temasSieteOchoNueveEntrega/TemasSieteOchoNueveMain.java)
+Enlace de la solución: [Entrega ejercicio temas Siete, Ocho, Nueve](https://github.com/ShadeVI/OpenBootcamp/blob/main/src/temasSieteOchoNueveEntrega/TemaSieteOchoNueveMain.java)
